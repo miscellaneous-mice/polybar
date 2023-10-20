@@ -2,6 +2,8 @@
 
 ## Nord Theme
 
+![Nord](https://github.com/miscellaneous-mice/polybar/assets/79500624/fd746c5a-e844-479e-bed4-35e0f81de41b)
+
 - Located in polybar_nord
 
 ## Catppuccin Theme
