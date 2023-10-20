@@ -14,4 +14,6 @@
 
 ## Dracula theme
 
+![dracula](https://github.com/miscellaneous-mice/polybar/assets/79500624/8532d3fb-9760-42ca-92f2-88e566935b5f)
+
 - Located in polybar_dracula
