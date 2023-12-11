@@ -8,7 +8,7 @@
 
 ## Catppuccin Theme
 
-![Catppuccin](https://github.com/miscellaneous-mice/polybar/assets/79500624/7d744cec-4026-4ae7-99b5-127b9606842a)
+![Catppuccin](https://github.com/miscellaneous-mice/polybar/assets/79500624/387c9e68-05f7-4fe0-93fa-c22d73c68860)
 
 - Located in polybar_catppuccin
 
