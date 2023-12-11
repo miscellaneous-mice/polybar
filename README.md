@@ -2,7 +2,7 @@
 
 ## Nord Theme
 
-![Nord](https://github.com/miscellaneous-mice/polybar/assets/79500624/fd746c5a-e844-479e-bed4-35e0f81de41b)
+![Nord](https://github.com/miscellaneous-mice/polybar/assets/79500624/8b1d709b-2e85-4226-9708-52f957f860d2)
 
 - Located in polybar_nord
 
