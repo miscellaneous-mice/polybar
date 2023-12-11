@@ -11,3 +11,7 @@
 ![Catppuccin](https://github.com/miscellaneous-mice/polybar/assets/79500624/387c9e68-05f7-4fe0-93fa-c22d73c68860)
 
 - Located in polybar_catppuccin
+
+## Credits
+- Polybar : https://github.com/VaughnValle/blue-sky
+- Polybar animation : https://github.com/itsoctotv/polybar-pacman-animation
