@@ -30,6 +30,14 @@ $ sudo cp -r ~/.config/polybar/fonts/* /usr/share/fonts/
 ```
 - You May also install jetbrainsmono nerd font : https://www.jetbrains.com/lp/mono/
 
+- Configuring dunst for checking the updates. (theme -> dunst_nord/dunst_catppuccin)
+```
+$ sudo pacman -S dunst
+$ mkdir -p ~/.config/dunst/
+$ cp -r {theme}/* ~/.config/dunst/
+$ mv ~/.config/dunst/updates.sh ~/.local/bin/
+$ chmod +x ~/.local/bin/updates.sh
+```
 - Make all the scripts executable
 ```
 $ chmod +x ~/.config/polybar/scripts/launcher
