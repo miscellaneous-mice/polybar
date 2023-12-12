@@ -2,13 +2,13 @@
 
 ## Nord Theme
 
-![nord_gif](https://github.com/miscellaneous-mice/polybar/assets/79500624/3a027c37-2770-4d1d-96e7-f8c9f98dfc4f)
+![nord_gif](https://github.com/miscellaneous-mice/polybar/assets/79500624/7cc64efc-fa5b-4494-ae92-31dae6e51724)
 
 - Located in polybar_nord
 
 ## Catppuccin Theme
 
-![Cat_gif](https://github.com/miscellaneous-mice/polybar/assets/79500624/703ac932-a4d3-466a-9635-533c80410d9e)
+![cat_gif](https://github.com/miscellaneous-mice/polybar/assets/79500624/55caf8be-eec3-4c42-bcce-92c86b9077e0)
 
 - Located in polybar_catppuccin
 
