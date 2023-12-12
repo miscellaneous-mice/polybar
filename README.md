@@ -28,7 +28,7 @@ $ mv {theme}/* ~/.config/polybar/
 ```
 $ sudo cp -r ~/.config/polybar/fonts/* /usr/share/fonts/
 ```
-  - You May also install jetbrainsmono nerd font : https://www.jetbrains.com/lp/mono/
+- You May also install jetbrainsmono nerd font : https://www.jetbrains.com/lp/mono/
 
 - Make all the scripts executable
 ```
