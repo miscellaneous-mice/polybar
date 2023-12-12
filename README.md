@@ -12,6 +12,13 @@
 
 - Located in polybar_catppuccin
 
+# How to Use
+
+- In your window manager config file, add this line to your startup processes
+```
+~/.config/polybar/launch.sh
+```
+
 ## Credits
 - Polybar : https://github.com/VaughnValle/blue-sky
 - Polybar animation : https://github.com/itsoctotv/polybar-pacman-animation
