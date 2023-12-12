@@ -53,6 +53,10 @@ $ chmod +x ~/.config/polybar/scripts/pacman/start.sh
 ~/.config/polybar/launch.sh
 ```
 
+## Full Rice
+- [Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice)
+- [BSPWM](https://github.com/miscellaneous-mice/BSPWM_Rice)
+
 ## Credits
 - Polybar : https://github.com/VaughnValle/blue-sky
 - Polybar animation : https://github.com/itsoctotv/polybar-pacman-animation
